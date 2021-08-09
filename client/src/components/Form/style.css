@@ -1,0 +1,8 @@
+.form-group {
+   max-height: 345px;
+   margin-top: 10%;
+   border: 6px #354bc7d6 solid;
+   border-radius: 4px;
+   overflow-y: scroll;
+   overflow-x: hidden;
+ }
